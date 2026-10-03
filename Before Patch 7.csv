@@ -1,0 +1,199 @@
+﻿"Page / Category","Page / Feature",Impressions,Visits,"Owner Impressions","Owner Visits"
+"Free to Play Hub","Faceted Browsing",4579,66,22,2
+"Free to Play Hub","Browse Items - Popular",8152,70,12,1
+"Free to Play Hub",(Other),31,3,6,2
+"Free to Play Hub","Browse Items - All",384,4,2,0
+"Free to Play Hub","Recent Events Section",12,0,0,0
+"Free to Play Hub","Browse Items - Search",4,3,1,3
+"Steam Client - Friend Is In-Game Notification","Non-Owner, First Notification",2310,0,0,0
+"Steam Client - Friend Is In-Game Notification","Game Owner, Additional Notifications",496,0,496,0
+"Steam Client - Friend Is In-Game Notification","Game Owner, First Notification",614,0,614,0
+"Steam Client - Friend Is In-Game Notification","Non-Owner, Additional Notifications",782,0,0,0
+"Direct Search Results","Search Results",3102,1435,431,248
+"Direct Search Results",(Other),0,20,0,3
+"Browse Search Results","Browse Search Results",3066,41,831,5
+"Browse Search Results By Tags","Browse Search Results",2913,75,45,1
+"Tag Page","Faceted Browsing",1557,54,7,6
+"Tag Page","Browse Items - All",513,8,12,2
+"Tag Page","New & Trending List",581,8,2,0
+"Tag Page",(Other),147,3,0,0
+"Tag Page","Top Sellers List",1,0,0,0
+"Tag Page","Popular Titles",1,0,0,0
+"Search Suggestions","Search Auto-complete",2069,2587,515,417
+"Home Page","Recently Viewed",143,0,105,0
+"Home Page","Trending Among Friends",436,15,13,0
+"Home Page","Main Cluster (Friend Recommendation)",2,0,0,0
+"Home Page","Main Cluster (Recommended For You)",1,0,0,0
+"More Like This",(Other),143,67,15,2
+"More Like This","More Like Main Item",14,0,7,0
+"More Like This","New and Trending",0,2,0,0
+Wishlist,"Wishlist Image",43,32,0,8
+"Friend Activity Page","More Like This",25,1,3,0
+"Community Hub",Home,8,25,2,7
+"Community Hub","Browse All Reviews",11,0,3,0
+"Curator or Developer Homepage","Curator Reviews",2,0,0,0
+"Curator or Developer Homepage","Recommended by a Suggested Curator",1,0,0,0
+"Games Hub","Faceted Browsing",2,0,0,0
+"Recommendation Feed","Friends reviews",2,0,0,0
+"Community - Friend Activity Feed","User Review",2,0,2,0
+"Community - User Generated Content","User Review",2,0,0,0
+"News Hub and Events",(Other),1,2,1,2
+"Steam Replay",(Other),1,0,1,0
+"Steam Labs",(Other),1,0,0,0
+"Promotion Page",(Other),1,0,1,0
+"(other pages)",(Other),0,2558,0,2131
+"(other pages)","Primary Store Link",0,2,0,2
+"Discovery Queue","Discovery Queue",0,772,0,1
+"Steam Client - Library",(Other),0,596,0,561
+"Steam Client - Library","In-Game Friend or Chat Member",0,1,0,0
+"Steam Client - Library","Primary Store Link",0,1,0,1
+"Bot Traffic","Search Auto-complete",0,126,0,16
+"Bot Traffic","Browse Search Results",0,85,0,5
+"Bot Traffic",(Other),0,279,0,99
+"Bot Traffic","New and Trending",0,1,0,0
+"Bot Traffic","All New Releases Tab",0,9,0,0
+"Bot Traffic",Breadcrumbs,0,5,0,0
+"Bot Traffic",steamcommunity.com,0,1,0,0
+"Bot Traffic","Trending Among Friends",0,1,0,0
+"Direct Navigation",(Other),0,435,0,81
+"New Releases Queue","New Releases Queue",0,153,0,0
+"External Website",yandex,0,21,0,4
+"External Website",baidu,0,5,0,0
+"External Website",Google,0,68,0,7
+"External Website",,0,3,0,0
+"External Website",other,0,9,0,0
+"External Website",twitter.com,0,1,0,0
+"External Website",instagram,0,6,0,0
+"External Website",steamdb,0,1,0,0
+"External Website",vk,0,1,0,0
+"External Website",yahoo.com,0,1,0,0
+"Valve Website",steamcommunity.com,0,68,0,28
+"Valve Website",(Other),0,15,0,0
+"Other Product Pages",Breadcrumbs,0,4,0,4
+"New on Steam Page","All New Releases Tab",0,1,0,0
+"Community Hub - Discussions","Browse Topics",0,1,0,0
+Country,HK,5292,2603,464,1034
+Country,RU,6968,2404,601,868
+Country,CN,3756,1328,610,509
+Country,US,4711,665,160,97
+Country,UA,1426,640,171,299
+Country,TW,451,367,96,121
+Country,KZ,622,270,113,137
+Country,BY,442,188,48,87
+Country,JP,300,142,34,50
+Country,MY,297,142,42,63
+Country,PL,339,77,67,33
+Country,IN,293,74,97,48
+Country,DE,423,67,36,24
+Country,SG,147,66,31,20
+Country,CA,552,63,25,15
+Country,KR,234,53,15,15
+Country,GB,488,39,7,12
+Country,BR,447,32,45,13
+Country,AU,313,30,15,17
+Country,LV,77,30,8,14
+Country,TR,270,30,11,9
+Country,FR,159,27,13,11
+Country,KG,33,24,5,13
+Country,CZ,78,20,8,9
+Country,ES,139,20,39,4
+Country,FI,83,17,9,7
+Country,NL,112,17,13,3
+Country,UZ,92,17,8,9
+Country,AR,169,16,21,6
+Country,MD,61,15,4,4
+Country,RO,208,15,67,8
+Country,SE,114,14,2,6
+Country,EE,32,13,2,7
+Country,GE,41,13,4,11
+Country,IL,81,13,13,6
+Country,NO,31,11,2,5
+Country,NZ,85,11,0,3
+Country,DK,48,10,2,1
+Country,PT,75,10,32,5
+Country,IT,104,9,13,3
+Country,PH,196,9,0,3
+Country,SK,170,9,106,5
+Country,AT,49,8,10,5
+Country,LT,55,8,9,3
+Country,ID,234,7,6,1
+Country,RS,66,7,0,0
+Country,IE,37,6,0,2
+Country,PE,133,6,2,3
+Country,SA,143,6,0,2
+Country,AM,15,6,1,3
+Country,BE,33,5,1,0
+Country,BG,49,5,2,2
+Country,TH,169,5,34,0
+Country,ME,8,5,0,0
+Country,CY,3,4,0,3
+Country,EG,77,4,1,2
+Country,TJ,8,4,3,2
+Country,HR,16,3,2,2
+Country,HU,40,3,0,1
+Country,VN,108,3,0,0
+Country,ZA,103,3,0,0
+Country,MO,15,3,0,0
+Country,SI,13,3,0,0
+Country,AE,22,2,0,0
+Country,CL,95,2,2,1
+Country,CO,39,2,0,1
+Country,IR,38,2,0,0
+Country,AZ,12,2,1,1
+Country,BA,21,1,0,0
+Country,BD,18,1,0,1
+Country,GR,58,1,7,0
+Country,IS,12,1,8,0
+Country,KH,14,1,0,0
+Country,KW,21,1,0,0
+Country,MA,26,1,0,0
+Country,MN,17,1,0,0
+Country,MX,86,1,0,0
+Country,PK,25,1,0,0
+Country,PS,6,1,0,0
+Country,VE,11,1,0,0
+Country,CH,24,1,1,0
+Country,CR,12,1,0,0
+Country,IQ,30,1,0,0
+Country,MM,3,1,0,0
+Country,SV,7,1,0,0
+Country,,7,0,0,0
+Country,BH,13,0,0,0
+Country,EC,15,0,0,0
+Country,GT,4,0,0,0
+Country,JO,11,0,0,0
+Country,LK,5,0,0,0
+Country,LU,4,0,0,0
+Country,LY,3,0,0,0
+Country,MK,16,0,0,0
+Country,PR,14,0,0,0
+Country,PY,9,0,0,0
+Country,QA,11,0,0,0
+Country,TN,9,0,0,0
+Country,TT,6,0,0,0
+Country,UY,12,0,0,0
+Country,BN,4,0,0,0
+Country,BO,13,0,0,0
+Country,GF,1,0,0,0
+Country,LB,8,0,0,0
+Country,DZ,9,0,0,0
+Country,HN,4,0,0,0
+Country,JE,1,0,0,0
+Country,JM,1,0,0,0
+Country,KE,1,0,0,0
+Country,MT,5,0,0,0
+Country,NA,1,0,0,0
+Country,NI,1,0,0,0
+Country,NP,9,0,0,0
+Country,OM,8,0,0,0
+Country,GU,1,0,0,0
+Country,LA,1,0,0,0
+Country,MG,1,0,0,0
+Country,AL,2,0,0,0
+Country,DO,6,0,0,0
+Country,GG,3,0,0,0
+Country,ZM,1,0,0,0
+Country,GP,1,0,0,0
+Country,PA,1,0,0,0
+Country,PG,1,0,0,0
+Country,GH,2,0,0,0
